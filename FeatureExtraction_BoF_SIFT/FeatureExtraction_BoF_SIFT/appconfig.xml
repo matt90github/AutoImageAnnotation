@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<APPCONFIG>
+  <BagsOfFeatures>400</BagsOfFeatures>
+  <VocabularyImages>500</VocabularyImages>
+  <TrainingImagesPerConcept>100</TrainingImagesPerConcept>
+  <CustomConcepts>banknote,beach,butterfly,car,cityscape,elephant,flower,horse,laptop,motorcycle,mountain,people,pizza,plane,ship,shoe,smartphone,soccerball,tiger,tree</CustomConcepts>
+  <StandardConcepts>airplane,backpack,baseball glove,billiards,binoculars,faces,gorilla,grapes,horse,leopard,lighthouse,mars,mattress,motorbike,mussels,penguin,soccerball,treadmill,t-shirt,watch</StandardConcepts>
+  <BaseDirectory>C:\Users\Matthew\Documents\custom_dataset_sift</BaseDirectory>
+</APPCONFIG>

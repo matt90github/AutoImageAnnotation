@@ -1,0 +1,16 @@
+﻿Build started 28/06/2015 17:00:29.
+     1>Project "C:\Users\Matthew\Desktop\Code\FeatureExtraction_BoF_SURF\FeatureExtraction_BoF_SURF\FeatureExtraction_BoF_SURF.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Matthew\Desktop\Code\OpenCV 2.4.9\opencv\build\x64\vc12\..\..\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\FeatureExtraction_BoF_SURF.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt FeatureExtraction_BoF_SURF.cpp
+         FeatureExtraction_BoF_SURF.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Matthew\Desktop\Code\FeatureExtraction_BoF_SURF\x64\Release\FeatureExtraction_BoF_SURF.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Matthew\Desktop\Code\OpenCV 2.4.9\opencv\build\x64\vc12\staticlib" opencv_calib3d249.lib opencv_contrib249.lib opencv_core249.lib opencv_features2d249.lib opencv_flann249.lib opencv_gpu249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_legacy249.lib opencv_ml249.lib opencv_nonfree249.lib opencv_objdetect249.lib opencv_ocl249.lib opencv_photo249.lib opencv_stitching249.lib opencv_superres249.lib opencv_ts249.lib opencv_video249.lib opencv_videostab249.lib IlmImf.lib libtiff.lib libpng.lib libjasper.lib libjpeg.lib zlib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Matthew\Desktop\Code\FeatureExtraction_BoF_SURF\x64\Release\FeatureExtraction_BoF_SURF.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Matthew\Desktop\Code\FeatureExtraction_BoF_SURF\x64\Release\FeatureExtraction_BoF_SURF.lib" /MACHINE:X64 x64\Release\FeatureExtraction_BoF_SURF.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+         FeatureExtraction_BoF_SURF.vcxproj -> C:\Users\Matthew\Desktop\Code\FeatureExtraction_BoF_SURF\x64\Release\FeatureExtraction_BoF_SURF.exe
+     1>Done Building Project "C:\Users\Matthew\Desktop\Code\FeatureExtraction_BoF_SURF\FeatureExtraction_BoF_SURF\FeatureExtraction_BoF_SURF.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.48
