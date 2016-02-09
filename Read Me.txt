@@ -1,9 +1,0 @@
-An Automatic Image Annotation Model based on Metadata and Visual Features
--------------------------------------------------------------------------
-
-Before running the SURF or SIFT feature extraction and image annotation applications, please make sure to:
-
-1. Copy the necessary folders from the Resources folder to a local directory.
-2. Update the BaseDirectory tag of the appconfig XML file with this location.
-
--------------------------------------------------------------------------
